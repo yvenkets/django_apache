@@ -38,6 +38,24 @@ add your domain name or '*' to allow all domains.
 
 the sample httpd.conf file available in the repositry.
 
+1. create virtual environment -> python -m venv venv ->activate-> venv\Scripts\activate
+
+2. install django - > pip install django
+
+3. create django project -> django-admin startproject daefodil
+
+4. -> cd daefodil
+
+5. Create Application inside your project folder  -> python manage.py startapp daefodilapp
+
+6. Create Application inside your project folder  -> python manage.py startapp API
+
+7. pip install -U -r requirement.txt
+
+8. db import
+
+9. File backup replace
+
 
 
 
